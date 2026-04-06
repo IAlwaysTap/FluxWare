@@ -25,6 +25,8 @@ elseif GameInfo.Creator.Name == "Wave of Brainrots" then
     Name = "escapeabrainrot.lua"
 elseif GameInfo.Creator.Name == "Polygon Interactive" then
     Name = "defusal.lua"
+elseif GameInfo.Creator.Name == "Volleyball Game Group" then
+    Name = "volleyballlegends.lua"
 end
 
 if Name ~= "" then
