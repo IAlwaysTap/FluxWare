@@ -23,7 +23,7 @@ elseif GameInfo.Creator.Name == "CRIMCORP" then
     Name = "criminality.lua"
 elseif GameInfo.Creator.Name == "Wave of Brainrots" then
     Name = "escapeabrainrot.lua"
-elseif GameInfo.Creator.Name == "Polygon Interactive" then
+elseif GameInfo.Creator.Name == "CN Entertainment" then
     Name = "defusal.lua"
 elseif GameInfo.Creator.Name == "Volleyball Game Group" then
     Name = "volleyballlegends.lua"
