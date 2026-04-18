@@ -27,6 +27,8 @@ elseif GameInfo.Creator.Name == "CN Entertainment" then
     Name = "defusal.lua"
 elseif GameInfo.Creator.Name == "Volleyball Game Group" then
     Name = "volleyballlegends.lua"
+elseif GameInfo.Creator.Name == "Shadowrise Devs" then
+    Name = "sailorpiece.lua"
 end
 
 if Name ~= "" then
